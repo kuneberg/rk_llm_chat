@@ -66,9 +66,9 @@
 - [x] make benchmark.py and benchmark.sh running it
   - [x] benchmark.py should iterate over all the rkllm files, run LLM in the same way as standalone_console.py does, ask "What is LLM", measure answer time, number of tokens and tokens per second and write it as a benchmark_report.md file and print to console as a table
 
-- [ ] Init locat git repository
-  - [ ] Make gitignore file with ignoring all the rkllm files
-  - [ ] Ignore .venv
-  - [ ] Add all other files
-- [ ] Add remote origin git@github.com:kuneberg/rk_llm_chat.git
-- [ ] Force push source to origin master branch
+- [x] Init local git repository
+  - [x] Make gitignore file with ignoring all the rkllm files
+  - [x] Ignore .venv
+  - [x] Add all other files
+- [x] Add remote origin git@github.com:kuneberg/rk_llm_chat.git
+- [x] Force push source to origin master branch
