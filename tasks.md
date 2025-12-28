@@ -72,3 +72,5 @@
   - [x] Add all other files
 - [x] Add remote origin git@github.com:kuneberg/rk_llm_chat.git
 - [x] Force push source to origin master branch
+
+- [x] Cleanup the readme explaining first how to setup env: run init_env, then install_rkllm scripts, then explain how to run standalone console and benchmark, then explain how to run and stop server and how to run demo as a client
